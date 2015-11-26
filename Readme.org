@@ -1,14 +1,12 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:47.992426
-#+TITLE: 辨非集
-#+PROPERTY: CBETA_ID X58n1019
-#+PROPERTY: ID KR6e0138
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1019
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 辨非集 / master
+#+DATE: 2015-11-26 14:21:06.047119
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0138_X_000-0584a>
-[[file:KR6e0138_001.txt::001-0584a2][敘]]
-[[file:KR6e0138_001.txt::001-0584a8][金剛通論]]
-[[file:KR6e0138_001.txt::0586b20][金剛事苑]]
+* 目次
+* [[file:KR6e0138_001.txt::001-0584a2][敘]]
+* [[file:KR6e0138_001.txt::001-0584a8][金剛通論]]
+* [[file:KR6e0138_001.txt::0586b20][金剛事苑]]
+* 卷
+** [[file:KR6e0138_001.txt][辨非集 1]]
